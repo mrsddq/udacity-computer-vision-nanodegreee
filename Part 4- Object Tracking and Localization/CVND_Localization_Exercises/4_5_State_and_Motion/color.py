@@ -12,11 +12,9 @@ class Color(object):
     
     # __init__ is called when a color is constructed using color.Color(_, _, _)
     def __init__(self, r, g, b):
-        # Setting the r value
         self.r = r
-        
-        ## TODO: Set the other two color variables g and b
-        
+        self.g = g
+        self.b = b
 
     # __repr__ is called when a color is printed using print(some_color)
     # It must return a string
@@ -25,11 +23,5 @@ class Color(object):
         
         plt.imshow([[(self.r/255, self.g/255, self.b/255)]])
         
-        ## TODO: Write a string representation for the color
-        ## ex. "rgb = [self.r, self.g, self.b]"
-        ## Right now this returns an empty string
-        string = ''
-        
-        return string
-    
+        return 'rgb = [{}, {}, {}]'.format(self.r, self.g, self.b)
     

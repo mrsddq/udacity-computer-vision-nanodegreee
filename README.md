@@ -1,4 +1,8 @@
-# Udacity-Computer-Vision-Nanodegree
+# Udacity Computer Vision Nanodegree Archive
+
+Archived coursework and project material from the Udacity Computer Vision Nanodegree.
+
+This repository is intentionally kept as a learning record. The polished, portfolio-facing computer vision work now lives in focused repos such as `yolov8-detection`, `medical-segmentation`, `vit-robustness-xai`, `ocr-pipeline`, `clip-image-captioning`, and `pose-estimation-qa`.
 
 ### Program outline:
 
@@ -13,6 +17,12 @@
  **Nanodegree Link:**
 > https://www.udacity.com/course/computer-vision-nanodegree--nd891
 
+
+## Completion Notes
+
+- Key Python exercise files for facial keypoint detection and SLAM robot sensing include completed reference implementations.
+- Notebooks may still contain Udacity prompt text and exercise instructions because they are preserved as course artifacts.
+- This repo should remain archived and should not be presented as a production codebase.
 
 ## Computer Vision Nanodegree Certificate
 
