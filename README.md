@@ -23,6 +23,7 @@ This repository is intentionally kept as a learning record. The polished, portfo
 - Key Python exercise files for facial keypoint detection and SLAM robot sensing include completed reference implementations.
 - Notebooks may still contain Udacity prompt text and exercise instructions because they are preserved as course artifacts.
 - This repo should remain archived and should not be presented as a production codebase.
+- Use [docs/ARCHIVE_NAVIGATION.md](docs/ARCHIVE_NAVIGATION.md) to connect course topics to the focused CV repos.
 
 ## Computer Vision Nanodegree Certificate
 
